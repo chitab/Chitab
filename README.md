@@ -2,9 +2,8 @@
 
 #### This is Chitab 🙏🏻
 #### I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
-<div style="display: inline-block; overflow: hidden; float: right; border-radius: 100px; width: 300px; height: 300px;">
-    <img src="https://raw.githubusercontent.com/chitab/Chitab/main/OIG4.jpeg" width="300" height="300" style="object-fit: cover; object-position: center; width: 100%; height: 100%;">
-</div>
+<img align="right" src="./OIG4.jpeg" width="300" height="300" style="object-fit: cover; object-position: center; width: 100%; height: 100%;" class="rounded-image">
+
 
 **About Me**
 - 💼 I have 5 years of professional experience in frontend development.
@@ -28,6 +27,12 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)](https://github.com/chitab/github-readme-stats)
+
+<style>
+    .rounded-image {
+        border-radius: 100px;
+    }
+</style>
 
 <br />
 
