@@ -1,12 +1,11 @@
-# Hi there 👋 👋
+### Hi there 👋
+
+<img align='right' src="./Github Bitmoji.png" width="150" height="250">
+
 #### This is Chitab 🙏🏻
-I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
-<img align='right' src="https://drive.google.com/file/d/1HHtXiCtH-m1FPKAPXvNz5e2RYBCMWLfV/view?usp=drive_link" width="150" height="250">
+#### I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
 
-<br />
-
-## About Me
-
+**About Me**
 - 💼 I have 5 years of professional experience in frontend development.
 - 🚀 I specialize in technologies like React, JavaScript, HTML, and CSS.
 - 💻 I have a strong background in responsive design, cross-browser compatibility, and performance optimization.
@@ -14,18 +13,21 @@ I am a passionate Frontend Web Developer with 5 years of experience creating eng
 - 📫 You can reach me at [mail](mailto:chitab703kumar@gmail.com)
 - 📫 Also You connect with me on [LinkedIn](https://www.linkedin.com/in/chitab-kumar-501006a3/).
 
-## Skills
+**Languages and Tools:**  
 
-- Languages: JavaScript, HTML, CSS
-- Frameworks/Libraries: React, Redux
-- Tools: Git, Webpack, npm/yarn
-- Design: Responsive Design, UI/UX Design Principles
-
-## Education
-- Degree: Master of Computer Applications (MCA)
-
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)](https://github.com/chitab/github-readme-stats)
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
 
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)]
+
+<br />
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
