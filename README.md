@@ -2,8 +2,7 @@
 
 #### This is Chitab 🙏🏻
 #### I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
-
-![Profile Picture](./OIG4.jpeg)
+<img align='right' src="./OIG4.jpeg" width="300" height="300">
 
 **About Me**
 - 💼 I have 5 years of professional experience in frontend development.
@@ -15,8 +14,19 @@
 
 **Languages and Tools:**  
 
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg) ![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg) ![Typescript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg) ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+</div>
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)](https://github.com/chitab/github-readme-stats)
+
+<br />
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
