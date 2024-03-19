@@ -36,12 +36,4 @@
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
 
-<style>
-    img {
-        transition: transform 0.3s ease-in-out;
-    }
-
-    img:hover {
-        transform: scale(1.1);
-    }
-</style>
+<link rel="stylesheet" href="styles.css">
