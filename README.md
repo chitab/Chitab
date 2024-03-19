@@ -24,7 +24,8 @@
 </div>
 
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)] 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)] 
+
 
