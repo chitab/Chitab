@@ -2,9 +2,7 @@
 
 #### This is Chitab 🙏🏻
 #### I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
-<div style="display: inline-block; overflow: hidden; border-radius: 100px; width: 300px; height: 300px;">
-    <img src="./OIG4.jpeg" width="300" height="300" style="object-fit: cover; object-position: center; width: 100%; height: 100%;">
-</div>
+<img align='right' src="./OIG4.jpeg" width="300" height="300" class="rounded-image">
 
 **About Me**
 - 💼 I have 5 years of professional experience in frontend development.
@@ -32,3 +30,5 @@
 <br />
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
+
+<link rel="stylesheet" href="styles.css">
