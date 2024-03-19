@@ -1,6 +1,9 @@
-# Hello, I'm Chitab Kumar 👋
-
+# Hi there 👋 👋
+#### This is Chitab 🙏🏻
 I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
+<img align='right' src="https://drive.google.com/drive/folders/1XtPWZqSE6aTaPqYVnPPeGpxI_H94T9Hu" width="150" height="250">
+
+<br />
 
 ## About Me
 
@@ -8,7 +11,7 @@ I am a passionate Frontend Web Developer with 5 years of experience creating eng
 - 🚀 I specialize in technologies like React, JavaScript, HTML, and CSS.
 - 💻 I have a strong background in responsive design, cross-browser compatibility, and performance optimization.
 - 🌱 I am always learning and exploring new technologies to stay updated with industry trends.
-- 📫 You can reach me at [your-email@example.com](mailto:chitab703kumar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chitab-kumar-501006a3/).
+- 📫 You can reach me at [mail](mailto:chitab703kumar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chitab-kumar-501006a3/).
 
 ## Skills
 
@@ -18,17 +21,6 @@ I am a passionate Frontend Web Developer with 5 years of experience creating eng
 - Design: Responsive Design, UI/UX Design Principles
 
 ## Experience
-
-### Company Name (Year - Present)
-- Developed and maintained frontend components using React, HTML, and CSS.
-- Implemented responsive designs and optimized performance for mobile and desktop platforms.
-- Collaborated with cross-functional teams to deliver high-quality projects on time.
-- Conducted code reviews, performed testing, and resolved technical issues.
-
-### Previous Experience (Year - Year)
-- Describe your responsibilities and achievements in previous roles related to frontend development.
-
-## Projects
 
 ### Project 1: Flipkart Internet Pvt Ltd
 - Led development and enhancement of Flipkart's post-order pages, including My Order, Order details, Order Confirmation, and Help Center systems.
@@ -48,18 +40,12 @@ I am a passionate Frontend Web Developer with 5 years of experience creating eng
 ## Education
 
 - Degree: Master of Computer Applications (MCA)
-- Certifications: Any relevant certifications related to frontend development.
 
 ## Languages
 
 - English: Fluent
 - Hindi: Native
-
-## Interests
-
-- Web Development Trends
-- Open Source Contributions
-- Continuous Learning and Skill Development
-
-Feel free to customize this README.md template with your own information, experiences, and projects to create a compelling overview of your frontend development expertise.
-
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)](https://github.com/chitab/github-readme-stats)
+<br />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
