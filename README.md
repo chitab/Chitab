@@ -1,7 +1,7 @@
 # Hi there 👋 👋
 #### This is Chitab 🙏🏻
 I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
-<img align='right' src="https://drive.google.com/drive/folders/1XtPWZqSE6aTaPqYVnPPeGpxI_H94T9Hu" width="150" height="250">
+<img align='right' src="https://drive.google.com/file/d/1HHtXiCtH-m1FPKAPXvNz5e2RYBCMWLfV/view?usp=drive_link" width="150" height="250">
 
 <br />
 
@@ -11,7 +11,8 @@ I am a passionate Frontend Web Developer with 5 years of experience creating eng
 - 🚀 I specialize in technologies like React, JavaScript, HTML, and CSS.
 - 💻 I have a strong background in responsive design, cross-browser compatibility, and performance optimization.
 - 🌱 I am always learning and exploring new technologies to stay updated with industry trends.
-- 📫 You can reach me at [mail](mailto:chitab703kumar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/chitab-kumar-501006a3/).
+- 📫 You can reach me at [mail](mailto:chitab703kumar@gmail.com)
+- 📫 Also You connect with me on [LinkedIn](https://www.linkedin.com/in/chitab-kumar-501006a3/).
 
 ## Skills
 
@@ -38,13 +39,8 @@ I am a passionate Frontend Web Developer with 5 years of experience creating eng
 - Managed documentation tasks such as sprint planning and release notes to maintain project transparency and communication.
 
 ## Education
-
 - Degree: Master of Computer Applications (MCA)
 
-## Languages
-
-- English: Fluent
-- Hindi: Native
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)](https://github.com/chitab/github-readme-stats)
 <br />
