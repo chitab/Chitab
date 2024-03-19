@@ -2,7 +2,9 @@
 
 #### This is Chitab 🙏🏻
 #### I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
-<img align='right' src="./OIG4.jpeg" width="300" height="300" style="border-radius: 100px;">
+<div style="display: inline-block; overflow: hidden; border-radius: 50%; width: 150px; height: 150px;">
+    <img src="./OIG4.jpeg" width="300" height="300" style="object-fit: cover; object-position: center; width: 100%; height: 100%;">
+</div>
 
 **About Me**
 - 💼 I have 5 years of professional experience in frontend development.
