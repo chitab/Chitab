@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align='right' src="./Github Bitmoji.png" width="150" height="250">
+<img align='right' src="./OIG4.jpeg" width="150" height="250">
 
 #### This is Chitab 🙏🏻
 #### I am a passionate Frontend Web Developer with 5 years of experience creating engaging user interfaces and experiences.
