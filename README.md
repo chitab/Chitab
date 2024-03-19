@@ -10,7 +10,7 @@
 - 💻 I have a strong background in responsive design, cross-browser compatibility, and performance optimization.
 - 🌱 I am always learning and exploring new technologies to stay updated with industry trends.
 - 📫 You can reach me at [mail](mailto:chitab703kumar@gmail.com)
-- 📫 Also You connect with me on [LinkedIn](https://www.linkedin.com/in/chitab-kumar-501006a3/).
+- 📫 Also, you can connect with me on [LinkedIn](https://www.linkedin.com/in/chitab-kumar-501006a3/).
 
 **Languages and Tools:**  
 
@@ -24,9 +24,9 @@
 </div>
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)] 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitab&theme=cobalt&layout=compact)](https://github.com/chitab/github-readme-stats)
+
 <br />
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
 
-
-
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitab&theme=dracula)
